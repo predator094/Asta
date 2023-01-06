@@ -1,0 +1,6 @@
+ Btw, Noob, Dc, Sycon, Hydra Assassins Esports, Extreme Troner Esports, Ev1L, Noobda Official, Imt Noobs, Fame, Winterfell, Phoenix Force, Supreme Agents, Xfs 20, Turff, Hell Raisers, Lethal Hellhounds, Dèvîl_Esports, 7Ms Officials, Hazers, Jod
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,12,10,1,2,4,6,8,1,0,0,1,1,0,1,0,0,0,0,0,0
+12,9,9,10,7,4,2,0,5,4,3,2,1,1,0,0,0,0,0,0,0
+27,21,19,11,9,8,8,8,6,4,3,3,2,1,1,0,0,0,0,0,0

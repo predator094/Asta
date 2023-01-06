@@ -1,0 +1,6 @@
+Winterfell, T69, XenoBlade, 14K OFFICIAL, We Steal Fame, 4FightersX, INVINCIBLE eSports, Assasins, Crazy clutchers, R4G, AXE REBORN, RTF eSports, XT Esports ,The official Esports, Battlefield India, Fatal Storm, Kattagang, ESCN, Midnight exp, Quantum warriors
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,12,6,10,4,8,1,1,1,1,0,0,1,2,0,0,0,0,0,0
+6,2,7,2,7,3,8,6,5,3,2,2,1,0,1,1,1,1,0,0
+21,14,13,12,11,11,9,7,6,4,2,2,2,2,1,1,1,1,0,0

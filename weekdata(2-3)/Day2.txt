@@ -1,0 +1,6 @@
+ Turff, Xfs 20, Maestro Goat, Sycon, Extreme Troner Esports, Noobda Official, Imt Noobs, Noob, Bawal, Lethal Hellhounds, Dc, Ev1L, Akts Esports, Indian Gamer, Supreme Agents, Big Empire Esports, Phoenix Force, Fame, Epic Esports
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,10,10,8,4,1,2,0,0,1,1,1,0,0,1,1,0,0,0
+12,11,8,10,7,4,2,3,2,1,1,1,1,1,0,0,0,0,0
+27,21,18,18,11,5,4,3,2,2,2,2,1,1,1,1,0,0,0
